@@ -1,0 +1,17 @@
+.source{
+    color: darkred;
+    background-color:ghostwhite;
+    font-style: oblique;
+}
+
+.hexa{
+    color: midnightblue;
+    background-color: gainsboro;
+    font-style:bold;
+}
+
+.note{
+    color: mintcream;
+    background-color: blueviolet;
+    font-style: italic;
+}

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Basics of html</title>
+</head>
+<body>
+<!---- Heading tags ------>
+<h1>Welcome to html</h1>
+<h2>Welcome to html</h2>
+<h3>Welcome to html</h3>
+<h4>Welcome to html</h4>
+<h5>Welcome to html</h5>
+<h6>Welcome to html</h6>
+
+<!---- Paragraph tag---->
+<p>Choosing a career in the tech sector can be tricky.
+ You wouldn’t want to choose something that’s getting obsolete.
+ You would want to find a career option that’s in demand and will remain in demand for the coming years.
+ With so many options available, figuring out which one to choose can also be overwhelming.
+One of those options is full-stack development. The demand for full-stack developers is on the rise.
+ And companies are in desperate need of talented professionals who can work with both HTML and PHP.
+ Because of this reason, companies are not shying away from offering increased full stack developer salary in India.
+</p>
+<! ---- list tags --->
+<!---- ordered tags ---->
+<ol>
+<li>html</li>
+<li>css</li>
+<li>js</li>
+<li>react js</li>
+</Ol>
+<!---- unorder tags ----->
+<ul>
+<li>c</li>
+<li>c#</li>
+<li>java</li>
+<li>python</li>
+</ul>
+<!---- image tags ---->
+<img src = "C:\Users\YASHWANTH\OneDrive\Desktop/OIP.jpg" alt = "pirate flag" height = 200 width = 200>
+<!----- Anchor tag---->
+<p></p>
+<a href = "https://www.10000coders.co/">CLICK</a>
+
+<!---- Defination list --->
+ <dl>
+ <dt><h2> fullstack</h2></dt> 
+ <dd> html,css,js</dd>
+ </dl>
+ <! ---- table tag ------>
+<table border = "1"cellspacing = '0'>
+
+<tr>
+  <th>Course</th>
+  <th>Duration</th>
+</tr> 
+  <td> html </td>
+  <td> 10 days </td>
+<tr>
+   <td> css </td>
+  <td> 14 days </td>
+</tr>
+<tr>
+   <td> js </td>
+   <td> 20 days </td>
+</tr>
+</table>
+
+<p>Japanese, anime (a term derived from the English word animation) describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan.[1] Animation produced outside of Japan with similar style to Japanese animation is referred to as anime-influenced animation.</p>
+<! ---- list tags --->
+<!---- ordered tags ---->
+<ol>
+<li>naruto</li>
+<li>dragon ball</li>
+<li>one punch man</li>
+</Ol>
+<!---- unorder tags ----->
+<ul>
+<li>naruto</li>
+<li>dragon ball</li>
+<li>one punch man</li>
+</ul>
+<!---- image tags ---->
+<img src = "C:\Users\YASHWANTH\OneDrive\Desktop/OIP.jpg" alt = "pirate flag" height = 200 width = 200>
+<!----- Anchor tag---->
+<p></p>
+<a href = "https://www.10000coders.co/">CLICK</a>
+
+<!---- Defination list --->
+ <dl>
+ <dt><h2> anime</h2></dt> 
+ <dd> naruto,dragon ball,one punch man</dd>
+ </dl>
+ <! ---- table tag ------>
+<table border = "1"cellspacing = '0'>
+
+<tr>
+  <th>Anime</th>
+  <th>hero</th>
+</tr> 
+  <td> Naruto </td>
+  <td> Naruto </td>
+<tr>
+   <td> Dragon ball</td>
+  <td> Goku </td>
+</tr>
+<tr>
+   <td> one punch man </td>
+   <td> Saitama </td>
+</tr>
+</table>
+
+<p></p>
+<! ---- list tags --->
+<!---- ordered tags ---->
+<ol>
+<li>naruto</li>
+<li>dragon ball</li>
+<li>one punch man</li>
+</Ol>
+<!---- unorder tags ----->
+<ul>
+<li>naruto</li>
+<li>dragon ball</li>
+<li>one punch man</li>
+</ul>
+<!---- image tags ---->
+<img src = "C:\Users\YASHWANTH\OneDrive\Desktop/OIP.jpg" alt = "pirate flag" height = 200 width = 200>
+<!----- Anchor tag---->
+<p>Villains in Japanese animation with expressive features and symbolism not always found in other forms of animation. Anime characters are depicted with traits more realistic and/or less cartoonish, especially when compared to Western media. This often overlaps with Manga Villains due to manga being adapted into anime and vice versa.</p>
+<a href = "https://www.10000coders.co/">CLICK</a>
+
+<!---- Defination list --->
+ <dl>
+ <dt><h2> anime</h2></dt> 
+ <dd> naruto,dragon ball,one punch man</dd>
+ </dl>
+ <! ---- table tag ------>
+<table border = "1"cellspacing = '0'>
+
+<tr>
+  <th>Best villian</th>
+  <th>Name</th>
+</tr> 
+  <td> Naruto </td>
+  <td> Madara</td>
+<tr>
+   <td> Dragon ball</td>
+  <td> Freeza </td>
+</tr>
+<tr>
+   <td> one punch man </td>
+   <td> Space man</td>
+</tr>
+</table>
+
+
+</body>
+</html>

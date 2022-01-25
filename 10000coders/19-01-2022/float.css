@@ -1,0 +1,139 @@
+header{
+    background-color:black;
+    width: 100%;
+    height: 100px;
+
+}
+h2{
+    color: wheat;
+    margin: 0%;
+    padding-top: 15px;
+    padding-left: 0;
+    padding-right:60;
+    text-align: center;
+    font-style: italic;
+}
+a:link{
+    color: red;
+}
+a:hover{
+    color: orange;
+}
+a:visited{
+    color: seagreen;
+}
+a:active{
+    color: violet;
+}
+img{
+    float: left;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+    float: right;
+}
+ul li{
+    display: inline-block;
+    padding-right: 50px;
+    padding-top: 15px;
+} 
+marquee{
+    color: tomato;
+}
+.sec{
+    background-image: url(https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/11/one-piece-anime.jpg?q=50&fit=contain&w=750&h=375&dpr=1.5);
+    height: 400px;
+    background-repeat: no-repeat;
+
+}
+.one{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 20px;
+    margin-left: 40px;
+}
+.two{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 20px;
+    margin-left: 40px;
+}
+.three{
+    float: right;
+    width: 350px;
+    height: 350px;
+    margin: 20px 40px;
+}
+.v1{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 20px;
+    margin-left: 40px;
+}
+.v2{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 20px;
+    margin-left: 40px;
+
+}
+.v3{
+    width: 350px;
+    height: 350px;
+    float: right;
+    margin: 20px;
+    margin-left: 40px;
+}
+.sec2{
+    background-color:black;
+    width: 100%;
+    height: 800px;
+    margin: 20px;
+}
+footer{
+    background-color:black;
+    width: 100%;
+    height: 100px;
+}
+.img2{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+    float: right;
+}
+ul li{
+    display: inline-block;
+    padding-right: 50px;
+    padding-top: 15px;
+} 
+a:link{
+    color:white;
+}
+a:hover{
+    color: orange;
+}
+a:visited{
+    color: seagreen;
+}
+a:active{
+    color: violet;
+}
+footer h2{
+    color: wheat;
+    text-align: center;
+}

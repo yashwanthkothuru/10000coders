@@ -1,0 +1,57 @@
+div h1{
+    color: orange;
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+div > h2{
+    color: white;
+    font-style: bold;
+}
+section > h5{
+    color:wheat;
+}
+section + p{
+    color: yellowgreen;
+}
+.one + p{
+    color: gold;
+    font-style: oblique;
+}
+audio source{
+    background-color: honeydew;
+}
+div .video{
+    color: rgb(21, 21, 219);
+    font-style: inherit;
+}
+video ~ div{
+    color: rgb(235, 50, 50);
+}
+div~.bleach{
+    color: rgb(230,125,51);
+
+}
+.bleach+h5{
+    color: white;
+}
+a:hover{
+    color: orange;
+}
+a:visited{
+    color: seagreen;
+}
+a:active{
+    color: violet;
+}
+section h2{
+    color: goldenrod;
+    font-style: bold;
+}
+section p{
+    color: peru;
+}
