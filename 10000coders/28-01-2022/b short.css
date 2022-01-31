@@ -1,0 +1,180 @@
+html,body{
+    margin: 0%;
+    padding: 0%;
+}
+.body{
+    font-family: 'Nunito',sans-serif;
+}
+
+.sign{
+    color: white;
+   background-color: cyan;
+  border-style: none;
+    border-radius:25px;
+    padding: 5px;
+    
+    
+}
+.get{
+    color: white;
+    background-color: turquoise;
+    border:  solid;
+    border-style:none;
+    border-radius: 40px;
+    padding: 10px;
+    
+}
+main{
+    background-color: lavender;
+}
+.srch{
+    text-align: center;
+    background-image: url("C:/Users/YASHWANTH/OneDrive/Desktop/images/bg-boost-desktop.svg");
+    background-image: cover;
+    padding: 40px;
+    margin: 80px 100px 0px 80px;
+    border-radius: 10px;
+    background-color: rgb(42, 3, 82);
+    
+}
+.srh{
+    width: 60%;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: none;
+}
+button{
+    border: 1px solid white;
+    color: white;
+    background-color: turquoise;
+    border-radius: 10px;
+    padding: 15px;
+    border-style: none;
+}
+.adv{
+    text-align: center;
+    justify-content: space-between;
+}
+.adv p{
+    color: gray;
+}
+.adv h1{
+    font-size: 40px;
+}
+.brand{
+    display: flex;
+
+    
+}
+.brand1{
+    
+    background-color: white;
+    height: fit-content;
+    border-radius: 8px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin:20px; 
+    margin-right: 20px;
+    
+    
+}
+.brand2{
+    
+    background-color: white;
+    height: fit-content;
+    border-radius: 8px;
+    padding: 20px;
+    padding-right: 10px;
+    margin:auto;
+    margin-top: 80px;
+    margin-right: 20px;
+   
+}
+.brand3{
+    
+    background-color: white;
+    height: fit-content;
+    border-radius: 8px;
+    padding: 20px;
+    padding-right: 10px;
+    margin: auto;
+   padding:20px;
+    margin-top: 120px;
+    margin-right: 20px;
+    
+}
+.brand1 p,.brand2 p,.brand3 p{
+    color:gray;
+}
+.banner{
+    background-image: url("C:/Users/YASHWANTH/OneDrive/Desktop/images/bg-boost-desktop.svg");
+    background-image: cover;
+    background-color: rgb(42, 3, 82);
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+
+
+}
+.low{
+    justify-content: center;
+    color: white;
+    
+    padding-top: 20px;
+
+}
+
+.bimg1{
+    
+    background-color:black;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 20px;
+    margin-top: -40px;
+    text-align: left;
+}
+/*footer*/
+footer{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    
+}
+.footimg{
+    
+    text-align: center;
+    
+}
+.f1{
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    
+}
+.l1 li{
+    display: block;
+    color: gray;
+    text-align: center;  
+}
+
+.l2 li{
+    display: block;
+    color:gray;
+}
+
+.l3 li{
+    display: block;
+    color: gray; 
+}
+
+.wht{
+    color: white;
+
+}
+.social img{
+    padding: 10px;
+}

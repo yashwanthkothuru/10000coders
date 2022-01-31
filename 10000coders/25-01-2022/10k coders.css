@@ -1,0 +1,345 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    background-color:#fff;
+    font-family: 'Nunito', sans-serif;
+}
+.navbarlogo{
+    display: flex;
+    padding: 8px 16px;
+}
+.banner{
+    
+    display: flex;
+    
+    padding: 8px 16px;
+}
+.intro{
+    color:#052442;
+    font-style: bold;
+    font-size: 25px;
+     
+}
+.heading{
+    color: black;
+    font-weight: 500;
+    font-size: 35px;
+}
+.para{
+    color: #052442;
+    font-size: 18px;
+    font-style:normal;
+}
+button{
+    background-color:#ff6d00;
+    border-style: none;
+    padding: 18px 50px;
+    border-radius: 15px;
+    border: 1px solid;
+    color: white;
+    font-size: 18px;
+}
+
+
+.cn1{
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    font-style: bold;
+    font-size: 35px;
+}
+.icons{
+    display: flex;
+    padding: 0px 15px;
+    color:#2f4744;
+    text-align: center;
+    font-size: 16px;
+    
+
+}
+
+.icon1{
+    flex: 1;
+    text-align: center;
+}
+.icon1{
+    margin: 0px 0px 16px;
+    padding: 16px 0px 0px;
+}
+
+.icon2{
+    flex: 1;
+}
+.save2{
+    text-align: center;
+}
+.more{
+    color:#004ba8;
+}
+.give{
+    font-size: 28px;
+    color: #2f4744;
+}
+.day{
+    
+    background-color: rgb(235, 240, 249);
+    
+}
+
+.back{
+    background-image: url("https://www.10000coders.co/assets/technologies.svg");
+background-size: contain;
+    background-repeat: no-repeat;
+}
+.your{
+    padding: 0px 15px;
+    font-size: 28px;
+    color: #052442;
+    margin: 0px 0px 60px;
+    margin-left: 84px;
+}
+
+.day ul li{
+    color: #2f4744;
+    margin: 16px;
+}
+.day span{
+    position: absolute;
+    color: white;
+    border-radius: 5px;
+    background-color:#004ba8;
+    padding: 7px 15px;
+    margin-left: -84px;
+    margin-top: 20px;
+
+}
+.day p{
+    padding: 1rem 1.25rem;
+}
+.day1{
+    background-color: #fff;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-left: 166px;
+    margin-right: 50px;
+    line-height: 1.5;
+    display: block;
+    font-size: 1rem;
+    
+    
+}
+
+.day2{
+    margin-top: 40px;
+    background-color: #fff;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-left: 166px;
+    margin-right: 50px;
+    line-height: 1.5;
+    display: block;
+
+}
+.day3{
+    margin-top: 40px;
+    background-color: #fff;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-left: 166px;
+    margin-right: 50px;
+    line-height: 1.5;
+    display: block;
+}
+
+.day1 h3,.day2 h3,.day3 h3{
+    color:#004ba8;
+    font-weight: 700;
+    padding: 1rem 1.25rem;
+    font-size: 1.25rem;
+    
+}
+.btn{
+    margin-left: 84px;
+    margin-top: 25px;
+    
+}
+.founder{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px 30px;
+}
+.div2 p{
+    color: #2f4744;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+.founder h3{
+    color: #004ba8;
+}
+.founder h2{
+    font-size: 30px;
+    font-weight: 400;
+    color: #052442;
+}
+.lower{
+    background-color:whitesmoke;
+}
+.lower h1{
+    
+    
+    color: #2f4744;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+marquee{
+    width: 70%;
+    height: 100px;
+    direction: left;
+}
+
+.lower2 h1,h2{
+    text-align: center;
+    color:#052442;
+    font-size: 30px;
+    font-weight: 400;
+
+}
+.lower2 div p{
+    margin-left: 40px;
+}
+.lower2 ul{
+    position: relative;
+    margin: 50px;
+    font-family: sans-serif;
+    font-style: inherit;
+    font-size: 18px;
+    list-style-type: none;
+}
+.lower2 p{
+    margin: 60px;
+    font-size: 18px;
+}
+.l1{
+    border: 1px solid #eaf9ec;
+    background-color: #eaf9ec;
+    margin-bottom: 10px;
+    display: table;
+}
+.l2{
+    border: 1px solid #eaf9ec;
+    background-color: #eaf9ec;
+    margin-bottom: 10px;
+    display: table;
+}
+.l3{
+    border: 1px solid #eaf9ec;
+    background-color: #eaf9ec;
+    margin-bottom: 10px;
+    padding: 2px 10px 2px 0px;
+    display: table;
+}
+.l4{
+    border: 1px solid #f9eaec;
+    background-color:#f9eaec;
+    margin-bottom: 10px;
+    display: table;
+}
+.l5{
+    border: 1px solid #f9eaec;
+    background-color:#f9eaec;
+    margin-bottom: 10px;
+    display: table;
+}
+.l6{
+    border: 1px solid #f9eaec;
+    background-color:#f9eaec;
+    margin-bottom: 10px;
+    display: table;
+}
+.list2 span{
+    font-style: bold;
+    font-weight: 400;
+    color: white;
+    background-color: #b33c43;
+    position: absolute;
+    padding:1.4px 5px;
+    border-radius: 2px;
+    margin-left:  -20px;
+
+}
+.lower3{
+    margin-left: 50px;
+    text-align: center;
+}
+.p1{
+    font-style: normal;
+    font-size: 20px;
+    color: #2f4744;
+    
+}
+footer{
+    display: flex;
+    background-color: rgb(31, 54, 31);
+    background-size: contain;
+    color: grey;
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+}
+.social{
+    position: fixed;
+    top: 40%;
+}
+.ease:hover{
+    width: 200px;
+}
+.im1:hover{
+    width: 200px;
+
+}
+.im2:hover{
+    width: 200px;
+
+}
+.im3:hover{
+    width: 200px;
+
+}
+.im4:hover{
+    width:200px
+}
+.im1,.img2,.im3,.im4{
+    transition-timing-function: ease;
+    transition-duration: 2000ms;
+}
+.im1{
+    background-color: rgb(99, 99, 245);
+    padding: 15px;
+    display: table;
+
+}
+
+.im2{
+    background-color: rgb(131, 131, 236);
+    padding: 15px;
+    display: table;
+}
+.im3{
+    background-color: rgb(105, 196, 105);
+    padding: 15px;
+    display: table;
+}
+.im4{
+    background-color: gray;
+    padding: 15px;
+    display: table;
+}
+
